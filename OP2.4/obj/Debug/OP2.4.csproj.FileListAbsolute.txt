@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\OP2.4\OP2.4\bin\Debug\OP2.4.exe.config
+C:\Users\anton\source\repos\OP2.4\OP2.4\bin\Debug\OP2.4.exe
+C:\Users\anton\source\repos\OP2.4\OP2.4\bin\Debug\OP2.4.pdb
+C:\Users\anton\source\repos\OP2.4\OP2.4\obj\Debug\OP2.4.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\OP2.4\OP2.4\obj\Debug\OP2.4.exe
+C:\Users\anton\source\repos\OP2.4\OP2.4\obj\Debug\OP2.4.pdb
